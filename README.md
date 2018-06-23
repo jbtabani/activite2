@@ -1,3 +1,3 @@
 # activite2
 activite 2 openclassroom
-ajout
+ajout d'une autre ligne directement depuis GITHUB
